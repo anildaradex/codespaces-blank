@@ -6,7 +6,7 @@ This repository contains the code for our NAACL 2024 paper [Assisting in Writing
 <p align="center">
   <img src="assets/overview.png" style="width: 90%; height: auto;">
 </p>
-STORM is a LLM system that writes Wikipedia-like articles from scratch based on Internet search.
+STORM is an LLM system that writes Wikipedia-like articles from scratch based on Internet search.
 
 While the system cannot produce publication-ready articles that often require a significant number of edits, experienced Wikipedia editors have found it helpful in their pre-writing stage.
 
